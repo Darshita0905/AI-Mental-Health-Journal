@@ -28,3 +28,8 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+node_modules/
+dist/
+.env
+firebase-debug.log
