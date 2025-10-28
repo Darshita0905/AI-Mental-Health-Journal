@@ -1,5 +1,6 @@
 # AI-Mental-Health-Journal
 In a world increasingly attentive to mental health, many individuals seek private, supportive tools to manage their emotional well-being. This project proposes a web application that acts as a mental health journaling companion. 
+
 # ai-journal-app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -29,3 +30,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Practice change 
+This is a small edit to learn creating a PR.
